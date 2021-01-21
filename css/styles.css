@@ -1,0 +1,22 @@
+body {
+   margin: 0;
+   padding: 0;
+  
+}
+h1 {
+   text-align: center;
+}
+.timer{
+   max-width: 100%;
+   margin-top:50px;
+   font-size: 40px;
+   padding: 30px 50px;
+   display:flex;
+   justify-content:space-between;
+   flex-wrap: wrap;
+   align-items:center;
+   background-color: rgb(168, 74, 255);
+   border: 2px solid #aaaaaa;
+   border-radius: 10px;
+}
+
