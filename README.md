@@ -1,4 +1,7 @@
 # module__timer_countdown
+If you need to install npm packages just write npm install
+In case you needed the webpack, write npx webpack. 
+
 First argument - class of the timer.
 Second - deadline.
 
