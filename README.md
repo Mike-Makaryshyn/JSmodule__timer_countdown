@@ -5,7 +5,7 @@ In case you needed the webpack, write npx webpack. (but don't forget to change d
 First argument - class of the timer.
 Second - deadline.
 
-ALSO YOU SHOULD NAME (in HTML) THE NUMBERS OF TIMER AS FOLLOWING:
+ALSO YOU SHOULD NAME (in HTML) THE NUMBERS OF THE TIMER AS FOLLOWING:
 
 #days
 #hours
