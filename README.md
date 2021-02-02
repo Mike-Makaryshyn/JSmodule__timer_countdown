@@ -1,4 +1,7 @@
 # module__timer_countdown
+
+https://mike-makaryshyn.github.io/jsTimerCountdown/
+
 If you need to install npm packages just write npm install
 In case you needed the webpack, write npx webpack. (but don't forget to change directions in webpack.config.js)
 
